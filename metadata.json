@@ -1,0 +1,6 @@
+{
+  "name": "小学英语课文互动绘本：马拉松的由来",
+  "description": "专为小学英语课堂设计的《The Story of the Marathon》连续图文教学课件，支持逐页教学与全景长图浏览，精准匹配五大故事场景，具备句子纯正朗读与点读功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
